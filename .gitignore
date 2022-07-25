@@ -1,0 +1,12 @@
+target/
+.settings/
+.classpath
+**/.factorypath
+.project
+*.iml
+.idea/
+/jenkins.env
+/.env
+**/nb-configuration.xml
+/bin/
+out/
